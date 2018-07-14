@@ -1,0 +1,8 @@
+= Friendly Money Mobile App
+Doc Writer <william.evrard@hei.yncrea.fr>
+
+== Splash screen
+This is the first page when you open app
+
+== Connection screen
+This page allows people to connect to this social app
